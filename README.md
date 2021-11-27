@@ -1,4 +1,4 @@
-### Hi there 👻
+### Hello there 👻
 
 ![](https://komarev.com/ghpvc/?username=TGZ7)
 
@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 -->
 
 <!-- 👋 -->
+
+🐁🐀🌌
